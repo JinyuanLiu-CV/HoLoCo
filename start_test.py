@@ -46,7 +46,7 @@ no_norm_4 \
 --instance_norm \
 0 \
 --vgg \
-1 \
+0 \
 --vgg_choose \
 relu5_1 \
 --gpu_ids \
