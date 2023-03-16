@@ -27,11 +27,11 @@ Before testing or training HoLoCo, we strongly recommend downloading the followi
 ## Test / Train
 ```shell
 # Test: use given example and save fused color images to result/SICE
-# If you want to test the custom data, please modify the file path in **test.py**
+# If you want to test the custom data, please modify the file path in 'test.py'
 python start_test.py
 
 # Train: 
-# Please prepare the custom data and change the modifiable options in **start_train.py** (optional)
+# Please prepare the custom data and change the modifiable options in 'start_train.py' (optional)
 python start_train.py
 ```
 
