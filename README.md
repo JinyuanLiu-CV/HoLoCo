@@ -2,9 +2,9 @@
 Offical Code for: Jinyuan Liu, Guanyao Wu, Junsheng Luan, Zhiying Jiang, Risheng Liu, Xin Fan*,**“HoLoCo: Holistic and Local Contrastive Learning Network for Multi-exposure Image Fusion”**, Information Fusion[J], 2023.
 
 
-### Set Up on Your Own Machine
+## Set Up on Your Own Machine
 
-#### Virtual Environment
+### Virtual Environment
 
 We strongly recommend that you use Conda as a package manager.
 
@@ -17,14 +17,14 @@ conda activate holoco
 pip install -r requirements.txt
 ```
 
-#### Download Checkpoints
+### Download Checkpoints
 
 Before testing or training HoLoCo, we strongly recommend downloading the following pre-trained model and placing them in the **./checkpoints** folder
 
 - [Google Drive](https://drive.google.com/drive/folders/1sOp9Fmtfm_U4w3_-pGWyuYOeHC__buoT?usp=sharing)
 - [Baidu Yun](https://pan.baidu.com/s/14Uo_0RfiPBc2NPEaggwgLw?pwd=HLCo)
 
-## Test / Train
+### Test / Train
 ```shell
 # Test: use given example and save fused color images to result/SICE
 # If you want to test the custom data, please modify the file path in 'test.py'
