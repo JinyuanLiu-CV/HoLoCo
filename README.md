@@ -14,7 +14,7 @@ Before testing or training HoLoCo, we strongly recommend downloading the followi
 
 ## Citation
 
-If this work has been helpful to you, please feel free to cite our paper!
+If this work has been helpful to you, we would be appreciate if you could cite our paper!
 
 ```
 @article{liu2023holoco,
