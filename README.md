@@ -12,7 +12,7 @@ We strongly recommend that you use Conda as a package manager.
 # create virtual environment
 conda create -n holoco python=3.10
 conda activate holoco
-# select and install pytorch version yourself
+# select and install pytorch version yourself (Necessary & Important)
 # install requirements package
 pip install -r requirements.txt
 ```
