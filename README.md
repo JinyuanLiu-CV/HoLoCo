@@ -1,5 +1,5 @@
 # HoLoCo
-Offical Code for: Jinyuan Liu, Guanyao Wu, Junsheng Luan, Zhiying Jiang, Risheng Liu, Xin Fan*,**“HoLoCo: Holistic and Local Contrastive Learning Network for Multi-exposure Image Fusion”**, Information Fusion[J], 2023.
+Official Code for: Jinyuan Liu, Guanyao Wu, Junsheng Luan, Zhiying Jiang, Risheng Liu, Xin Fan*,**“HoLoCo: Holistic and Local Contrastive Learning Network for Multi-exposure Image Fusion”**, Information Fusion[J], 2023.
 
 ## Preview of HoLoCo
 ## Set Up on Your Own Machine
