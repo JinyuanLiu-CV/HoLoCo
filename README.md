@@ -28,6 +28,7 @@ Before testing or training HoLoCo, we strongly recommend downloading the followi
 - [Baidu Yun](https://pan.baidu.com/s/14Uo_0RfiPBc2NPEaggwgLw?pwd=HLCo)
 
 ### Test / Train
+This code natively supports the same naming for over-/under-exposed image pairs.
 ```shell
 # Test: use given example and save fused color images to result/SICE
 # If you want to test the custom data, please modify the file path in 'test.py'
