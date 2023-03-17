@@ -3,7 +3,7 @@ Official Code for: Jinyuan Liu, Guanyao Wu, Junsheng Luan, Zhiying Jiang, Rishen
 
 - [*[Information Fusion]*](https://www.sciencedirect.com/science/article/pii/S1566253523000672)
 - [*[Google Scholar]*](https://scholar.google.com.hk/scholar?as_sdt=0%2C5&q=HoLoCo%3A+Holistic+and+local+contrastive+learning+network+for+multi-exposure+image+fusion&btnG=)
-- 
+
 ## Preview of HoLoCo
 ## Set Up on Your Own Machine
 
