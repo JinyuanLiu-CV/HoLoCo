@@ -8,7 +8,7 @@ Official Code for: Jinyuan Liu, Guanyao Wu, Junsheng Luan, Zhiying Jiang, Rishen
 ---
 
 ![preview](assets/workflow.png)
-![gif](assets/preview.gif)
+![gif](assets/preview1.gif)
  
 ---
 
